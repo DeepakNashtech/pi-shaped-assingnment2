@@ -1,7 +1,3 @@
-Sure! Here's a professional and clear README template tailored for your Titanic Data Manipulation project using NumPy & Pandas:
-
----
-
 # Titanic Dataset Analysis: Data Manipulation with NumPy & Pandas
 
 ## Overview
